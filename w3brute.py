@@ -466,7 +466,6 @@ class Spinner(object):
         self.suffix = suffix
         self.width = getTerminalSize()[0]
         self.curmesg = None
-        self._pretty_spinner = False
         self._show_proses_lengkap = True
         
         ignoreInterrupt()
