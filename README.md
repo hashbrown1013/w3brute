@@ -103,13 +103,9 @@ see the [CONTIRBUTING.md](https://github.com/aprilahijriyan/w3brute/blob/master/
 
 Donate
 ------
+want to donate? thank you!
 
-Process of making w3brute costs a lot of time, thought, energy and of course also consumes a lot of food and coffee, and also internet connection! xD
-
-If you support me and want to see a growing w3brute, of course you need to donate a little money to me, as a sign that you appreciate this project.
-
-You can send your money via PayPal to: **donate.w3brute@gmail.com**
-
+[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9YSTGEZGK66M4)
 
 Links
 -----
