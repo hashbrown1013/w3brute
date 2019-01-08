@@ -525,8 +525,6 @@ else:
                 return sizex, sizey
             
             except:
-                pass
-                
                 # src: http://stackoverflow.com/questions/263890/how-do-i-find-the-width-height-of-a-terminal-window
                 try:
                     import shlex
