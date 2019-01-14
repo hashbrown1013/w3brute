@@ -101,12 +101,6 @@ Contribute
 see the [CONTIRBUTING.md](https://github.com/aprilahijriyan/w3brute/blob/master/doc/CONTRIBUTING.md) file.
 
 
-Donate
-------
-want to donate? thank you!
-
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9YSTGEZGK66M4)
-
 Links
 -----
 
